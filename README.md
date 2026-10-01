@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Harith Haziq" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harith%20Haziq&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20%26%20Software%20Developer&descSize=20&descAlignY=60" />
+<img width="100%" alt="Harith Haziq" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harith%20Haziq&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20and%20Software%20Developer&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/harithhaziq">
   <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3DDC84&center=true&vCenter=true&width=640&height=50&lines=Native+Android+with+Kotlin+%26+Java;Cross-platform+apps+with+Flutter+%26+Dart;Backend+and+web+with+Laravel+%26+PostgreSQL;MVVM+%2F+BLoC+clean+architecture;REST+APIs%2C+payments+%26+in-app+purchases;CI%2FCD+pipelines+with+Fastlane" />
